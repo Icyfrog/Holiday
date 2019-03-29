@@ -1,9 +1,5 @@
-# Holiday
-1. Healthy habit：sleep and get up early
-2. Learning Git: write down the notes on repo: git_learning, and use git 
-3. Learning Java: write down the notes on repo: LearningJava
-4. Leetcode one problem per day
-5. Review and Preview ICS(both English and Chinese)
-6. Learning Chrome?(Web application ?)
-7. Read *Metro:2033*
-8. English words and sign in everyday.
+# Debug Diary
+### 2019/3/29 icsLab8
+1. 测试完最后一部分之前，永远不要相信自己已经debug完成了。
+2. getAddress 不应该free？
+3. parseCmdArg 对ret的定义一定要放在while循环里？
