@@ -25,3 +25,7 @@ ctrl + shift + enter 执行本sql文件全部指令。那么仅执行一两句�
 2. 第一题 1.sql用到了rank()over 自动给table排序的函数。不钻牛角尖了......[不钻牛角尖，多问问别人](https://www.bilibili.com/video/av6491934?from=search&seid=11470938549135953630)
 2. select语句的执行顺序：？
 3. 2.sql [MySQL中delimiter关键字的使用](https://blog.csdn.net/pan_junbiao/article/details/86291722)
+
+### 2019/4/11 Front end-- web & rr
+1. vue严格的eslint约束（好看是好看，太烦了）[vue如何禁用eslint](https://blog.csdn.net/qq_15869645/article/details/79521900)
+2. vue项目下 config/index.js 可以更改端口号，页面自动弹出等设置
