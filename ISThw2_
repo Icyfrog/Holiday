@@ -10,3 +10,5 @@ https://www.jianshu.com/p/56d428f94e7c
 
 
 原来repository里面是可以直接返回List的。。。
+
+建表很重要，要不然改来改去好麻烦
