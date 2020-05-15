@@ -7,3 +7,6 @@ https://www.cnblogs.com/stono/p/9350433.html
 SORT
 https://my.oschina.net/u/3568600/blog/1802654
 https://www.jianshu.com/p/56d428f94e7c
+
+
+原来repository里面是可以直接返回List的。。。
