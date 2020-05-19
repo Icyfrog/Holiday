@@ -29,3 +29,14 @@ ctrl + shift + enter 执行本sql文件全部指令。那么仅执行一两句�
 ### 2019/4/11 Front end-- web & rr
 1. vue严格的eslint约束（好看是好看，太烦了）[vue如何禁用eslint](https://blog.csdn.net/qq_15869645/article/details/79521900)
 2. vue项目下 config/index.js 可以更改端口号，页面自动弹出等设置
+
+### 2020/5/19 Software testing
+1. throw exception类怎么测试
+- https://www.cnblogs.com/Qian123/p/5852512.html
+- https://blog.csdn.net/Dream_Weave/article/details/83860631
+- https://stackoverflow.com/questions/6052061/mocking-messagedigest-getinstance-to-throw-an-exception
+- https://stackoverflow.com/questions/3305453/how-to-do-unit-test-for-exceptions#
+- https://stackoverflow.com/questions/15288390/junit-test-failing-although-expected-exception-is-thrown
+- https://www.jianshu.com/p/e5ac60af4198
+2. 打桩mock测试
+看下小组的源代码
